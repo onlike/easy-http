@@ -1,0 +1,3 @@
+include ':libEasyHttp'
+include ':app'
+rootProject.name = "EasyHttpApp"
